@@ -1,0 +1,15 @@
+body {
+  font-family: 'Kalam', cursive;
+	background: url(http://www.hdwallpaperspulse.com/wp-content/uploads/2017/03/28/awesome-railway-road-image.jpg) no-repeat center fixed;
+	background-size: cover;
+}
+
+
+
+#time{
+   color: white;
+   font-size: 5em;
+   height: 200px;
+   margin-top: 100px;
+   text-align: center;
+}
